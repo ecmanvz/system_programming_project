@@ -2,10 +2,10 @@
 
 ### Grup Üyeleri 
 
-- Arif Damar - G171210009 
-- Ecem Amanvermez - G181210022
-- Ömer Çağrı Şayir - G171210028
-- Emin Utku Mert - G171210051
+- Arif D. -  
+- Ecem A. -
+- Ömer Ç. - 
+- Emin U. - 
 
 projede libfdr kütüphanesiyle şifreleme uygulaması yaptık. proje önce .kilit dosyası okunup okunan değerler red-black ağacına ekleniyor. burası okuma kısmı 
 
